@@ -9,9 +9,7 @@ A simple, responsive currency converter web app built with HTML, CSS, and JavaSc
 - 🔁 Convert between 100+ world currencies
 - 🧠 Real-time exchange rate fetching from CDN
 - 🚩 Dynamic country flags for each selected currency
-- ✨ Default conversion from USD to INR
 - 🎨 Simple and clean UI
-- 📱 Mobile-friendly
 
 ---
 
