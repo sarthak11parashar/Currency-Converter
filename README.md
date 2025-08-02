@@ -1,15 +1,18 @@
 # 💱 Currency Converter – Real-Time Exchange Rate App
 
-A simple, responsive currency converter web app built with HTML, CSS, and JavaScript. This app allows users to convert between 100+ currencies using real-time exchange rates fetched from an open-source CDN-based API.
+A simple, responsive currency converter web app built with **HTML**, **CSS**, and **JavaScript**. This app allows users to convert between 100+ currencies using real-time exchange rates fetched from an open-source CDN-based API.
+
+🌐 **Live Demo**: [https://currencygonow.netlify.app/](https://currencygonow.netlify.app/)
 
 ---
 
 ## 🌟 Features
 
 - 🔁 Convert between 100+ world currencies
-- 🧠 Real-time exchange rate fetching from CDN
+- 📡 Real-time exchange rate fetching from CDN
 - 🚩 Dynamic country flags for each selected currency
 - 🎨 Simple and clean UI
+- 📱 Fully responsive design
 
 ---
 
@@ -19,5 +22,4 @@ A simple, responsive currency converter web app built with HTML, CSS, and JavaSc
 - **CSS3** – Styling and layout  
 - **JavaScript (Vanilla)** – Logic, API integration, and DOM manipulation  
 - **[FlagsAPI](https://flagsapi.com)** – Displaying country flags  
-- **[@fawazahmed0 Currency API via jsDelivr CDN](https://github.com/fawazahmed0/currency-api)** – Providing exchange rates.
-
+- **[@fawazahmed0 Currency API via jsDelivr CDN](https://github.com/fawazahmed0/currency-api)** – Providing exchange rates
